@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)\n
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
