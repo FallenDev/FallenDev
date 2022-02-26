@@ -1,6 +1,4 @@
-### **Coding is my passion, never stop doing what drives you.** 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)
+### **Coding is my passion, never stop doing what drives you.** ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)
 
 &nbsp;
 
