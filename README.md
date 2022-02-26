@@ -1,7 +1,6 @@
 ### **Coding is my passion, never stop doing what drives you.** 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 
@@ -10,6 +9,8 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c%20sharp&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FallenDev/FallenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
