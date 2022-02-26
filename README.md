@@ -1,4 +1,4 @@
-### **Coding is my passion, never stop doing what drives you.** ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)
+### **Coding is my passion, never stop doing what drives you.** 
 
 &nbsp;
 
@@ -10,7 +10,7 @@
 &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)
 <!--
 **FallenDev/FallenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
