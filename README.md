@@ -1,5 +1,7 @@
 ### **Coding is my passion, never stop doing what drives you.** 
+
 &nbsp;
+
 ### **Technical Skills**
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.NET&logoColor=white)
 ![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c%20sharp&logoColor=white)
@@ -8,8 +10,8 @@
 &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FallenDev&rank=-C,-B&row=2&column=2&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=FallenDev&rank=-C,-B&row=2&column3&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **FallenDev/FallenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
