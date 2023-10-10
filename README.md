@@ -8,7 +8,7 @@
 &nbsp;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FallenDev&rank=-C,-B&row=2&column=2&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&show_icons=true&theme=dark&rank_icon=percentile)
 
 <!--
 **FallenDev/FallenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
