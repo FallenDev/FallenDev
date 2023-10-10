@@ -7,7 +7,6 @@
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=FallenDev&rank=-C,-B&row=2&column=2&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenDev&count_private=true&show_icons=true&theme=dark)
 
