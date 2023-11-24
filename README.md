@@ -6,3 +6,6 @@
 ![MSSQL](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 &nbsp;  
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
