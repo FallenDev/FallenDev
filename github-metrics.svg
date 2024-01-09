@@ -64,9 +64,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.16480958449006" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="454.16480958449006" y="0" width="4.82633793236575" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="458.9911475168558" y="0" width="1.0088524831442252" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.1650575620684" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="454.1650575620684" y="0" width="4.8261328279033835" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.9911903899718" y="0" width="1.0088096100281978" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1154,6 +1154,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#6c6fa2a</div>
+                                        <div class="message">Clearer Quest Language on Lau's Quest</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">FallenDev/Zolian</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e59b397</div>
                                         <div class="message">Boots Color Fix</div>
                                     </div>
@@ -1176,26 +1196,6 @@
                                     <div class="commit">
                                         <div class="sha">#135ab2c</div>
                                         <div class="message">Remove redundant Metadata (Abilities)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">FallenDev/Zolian</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#681f288</div>
-                                        <div class="message">Turn Critter fix (DB Update)</div>
                                     </div>
                                 </div>
                             </section>
@@ -1289,7 +1289,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 234k out of 127m users</span>
+                                    <span class="gh">ranked 234k out of 124m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">86</div>
                                     </div>
@@ -1421,7 +1421,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jan 2024, 13:05:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2024, 14:05:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
