@@ -1148,6 +1148,153 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2655 commits in
+                                        <span class="repo">FallenDev/azerothcore-wotlk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#151aafa</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): 72ba824941939f688cccbe9e935c78adcc849883</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12d701c</div>
+                                        <div class="message">fix(DB/Custom): Wand of Holiday Cheer PVP tagging. (#18333)
+
+* fix(DB/Custom): Wand of Holiday Cheer PVP tagging.
+
+* -</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72ba824</div>
+                                        <div class="message">fix(Core/ItemStorage): Fix container items count on server load (#18367)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b50de5</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): 161424c358e33f3ccaf05f6d8b0530416bbdd907</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d55cdb</div>
+                                        <div class="message">fix(DB/Creature): Crystalcore Sentinel interrupt immunity (#18366)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea0f214</div>
+                                        <div class="message">fix(Scripts/TheEye): Thaladred should only chase players (#18365)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#161424c</div>
+                                        <div class="message">fix(DB/SAI): unlink non-existing entry from SAI 17671 (#18368)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#512355e</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): 794d3e47b90c9ee0ddfde38caf01f80bedd0ee12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#794d3e4</div>
+                                        <div class="message">fix(DB/HellfirePeninsula): remove faulty Blizzard spell from Arch Mage Xintor and add rp events (#18362)
+
+init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75a6662</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): 1cbf7492b64b8f45c0bf6421bcc0216a81f6d5cf</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cbf749</div>
+                                        <div class="message">fix(DB/Hinterlands): make Innkeeper Thulfram patrol (#18357)
+
+init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c3589a</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): e3c282ec1d947c9a0206ece8d23cafc209bc4be8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3c282e</div>
+                                        <div class="message">fix(Scripts/SSC): remove double spawn of Seer Olum and implement correctly (#18364)
+
+* initial
+
+* fix double definition
+
+* finalise
+
+* remove npc flag in script
+
+* handle in reset
+
+likely fathomlord is created before olum so flag removing doesnt work
+
+* put in instance script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d94d10a</div>
+                                        <div class="message">fix(Core): Prevent gift wrapping of limited duration items (#18334)
+
+fix(Core): Prevent gift wrapping of items with duration
+
+- remaining duration is not beeing stored in character_gifts
+- gift wrapping of items with duration preserved
+  them infinitely</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e419fb</div>
+                                        <div class="message">fix(Core/Guild): Prevent swapping limited duration items into guild bank (#18335)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6e2bf3</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): f512e0c32a4eec2ccbe57a89117e5e2a32158149</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f512e0c</div>
+                                        <div class="message">fix(DB/Gameobject): Sniffed Values for 'Subway Bench' (#18355)
+
+* fix(DB/Gameobject): Sniffed Values for 'Subway Bench'
+
+- they were also all using the same ID before but actually
+  each spawn uses a different ID
+
+* reset spawnMask from 3 to 1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5955f28</div>
+                                        <div class="message">fix(Scripts/SSC): do reset threat list for p3 in the right place (#18354)
+
+init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86bff27</div>
+                                        <div class="message">fix(Core/GameObject): Remove unneeded ClearGossipMenuFor call (#18331)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b32292b</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): 36114d9354219bd47741678e8110a08d627a86ec</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1168,115 +1315,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">FallenDev/TrinityCore</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 30 commits in
-                                        <span class="repo">FallenDev/WoW-Launcher</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">windows</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cc60049</div>
-                                        <div class="message">Added new command line options to specify custom versions &amp; cdns urls.
-Also fall back to default data when these are not reachable.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3df4f47</div>
-                                        <div class="message">Also print when a server is successfully validated.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca332be</div>
-                                        <div class="message">Check ssl cert for remote hosts.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e6811c</div>
-                                        <div class="message">Exclude all versions up from 10.1.5 from legacy cert mode.
-New release available on https://github.com/Arctium/WoW-Launcher/releases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09783a9</div>
-                                        <div class="message">Fix anti crash check.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22e0d61</div>
-                                        <div class="message">Update LICENSE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37da6af</div>
-                                        <div class="message">Fixed custom file loading crash. Closes https://github.com/Arctium/WoW-Launcher/issues/32</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c854f1</div>
-                                        <div class="message">1.14.4 support.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfb4573</div>
-                                        <div class="message">Also disable remapping when anti crash is disabled.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab0cb53</div>
-                                        <div class="message">Some QoL improvements:
-- Disable dev mode on IPv6 or unreachable game portal host names.
-- Print the client build and path on launcher start.
-- Disable anti crash feature when dev/custom file/static auth seed modes are disabled.
-  This restores the original client side security features when using external hosts.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d48c7f5</div>
-                                        <div class="message">Filter the game portal host for specific CIDR ranges:
-- This will make sure that the developer mode is disabled on most public hosts.
-- Enable Developer mode by default.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8794a0c</div>
-                                        <div class="message">Fix cert bundle/chain version checks for 1.14.x and 3.4.2 or later</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#221438c</div>
-                                        <div class="message">Added support for 10.1.5 (READ THE README):
-- Introduced new --dev command line option
-- README: Read the new "IMPORTANT NOTE FOR LOCAL DEVELOPMENT &amp; SERVER CONNECTIONS" section.
-
-Properly kill the launcher and game client on pattern detection fails.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#318b1a0</div>
-                                        <div class="message">Fix Microsoft.DotNet.ILCompiler cross compile package.
-Remove unused IsFileClosed method.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1ea1cf</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5c1a86</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b4a554</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb3bd16</div>
-                                        <div class="message">Add custom cdns file patch.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72cbda7</div>
-                                        <div class="message">Remove two nops from the mod loader hook bytes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc91c2c</div>
-                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1502,7 +1540,7 @@ Remove unused IsFileClosed method.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2024, 13:06:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2024, 14:07:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
