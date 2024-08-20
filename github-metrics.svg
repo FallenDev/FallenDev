@@ -1405,7 +1405,7 @@ Referenced commit(s): 4d2284cecbea5ba08cc94decd4d7bd5b259fb200</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 182k out of 142m users</span>
+                                    <span class="gh">ranked 182k out of 136m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">103</div>
                                     </div>
@@ -1537,7 +1537,7 @@ Referenced commit(s): 4d2284cecbea5ba08cc94decd4d7bd5b259fb200</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2024, 15:05:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2024, 16:06:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
