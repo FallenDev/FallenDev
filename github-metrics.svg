@@ -1405,7 +1405,7 @@ Referenced commit(s): 4d2284cecbea5ba08cc94decd4d7bd5b259fb200</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 182k out of 136m users</span>
+                                    <span class="gh">ranked 182k out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">103</div>
                                     </div>
@@ -1423,7 +1423,7 @@ Referenced commit(s): 4d2284cecbea5ba08cc94decd4d7bd5b259fb200</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.3764544832307 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="126.46132785763176 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1537,7 +1537,7 @@ Referenced commit(s): 4d2284cecbea5ba08cc94decd4d7bd5b259fb200</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2024, 16:06:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2024, 17:05:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
