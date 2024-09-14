@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1375" class="">
     <defs>
         <style/>
     </defs>
@@ -1124,6 +1124,252 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 40 commits in
+                                        <span class="repo">FallenDev/azerothcore-wotlk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00e35a2</div>
+                                        <div class="message">fix(Core/AI): Reduce movement leash extension interval. (#19923)
+
+* Init.
+
+* Use GetGameTime() instead of system call.
+
+Co-Authored-By: Anton Popovichenko &lt;walkline.ua@gmail.com&gt;
+
+* Update leash timer if rooted.
+
+* Remove unnecessary checks, add extension for fanning.
+
+More parity with VMaNGOS implementation.
+
+---------
+
+Co-authored-by: Anton Popovichenko &lt;walkline.ua@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbd74ae</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): 56e03c495d15b75f3c9d35c322bbf3b1cdb826de</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56e03c4</div>
+                                        <div class="message">fix(Scripts/BlackTemple): Shade of Akama should despawn on evade and Akama despawns before dying (#19894)
+
+* fix(Scripts/BlackTemple): Shade of Akama should despawn on evade and Akama despawns before dying
+
+* Create rev_1725714358950337100.sql
+
+* Update boss_shade_of_akama.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fafd351</div>
+                                        <div class="message">fix(Core/AI): creature leashing behavior. (#19897)
+
+* Update Unit.cpp
+
+* Update TargetedMovementGenerator.cpp
+
+* Update Unit.cpp
+
+* Update Unit.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b47b5d2</div>
+                                        <div class="message">fix(Core/AI): Initialize movement leash timer to five seconds. (#19898)
+
+Init.
+
+https: //github.com/vmangos/core/commit/c8510cbbd4dccbdac9900cc507910ef3ae0e6c43
+
+Co-authored-by: ratkosrb &lt;35845488+ratkosrb@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdc00b4</div>
+                                        <div class="message">fix(Core/AI): Add back leash update. (#19916)
+
+Init.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dd5c6e</div>
+                                        <div class="message">feat(Battlegrounds): make it compatible with custom arena type (#18679)
+
+* feat(Battlegrounds): make it compatible with custom arena type
+
+* fix(BattlegroundQueue.cpp): ignore bg for arena condition
+
+* feat(Scripting): add OnQueueUpdateValidity hook
+
+* fix: codestyle</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf95c1d</div>
+                                        <div class="message">fix(Scripts/ZulAman): Nalorakk sometimes not move when player close (#19893)
+
+* Fix nalorakk sometimes not move when player close
+
+* init _phase
+
+* Revert "Fix nalorakk sometimes not move when player close"
+
+This reverts commit b42cd4634bb4ffd225eaa7480428c6ba6b4817c6.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7eee134</div>
+                                        <div class="message">fix(Scripts/BlackTemple): Gurtogg Bloodboil shouldnt cast bloodboil o… (#19886)
+
+fix(Scripts/BlackTemple): Gurtogg Bloodboil shouldnt cast bloodboil on phase 2 and shouldnt chase immune targets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc4c874</div>
+                                        <div class="message">fix(Scripts/BlackTemple): blade_of_azzinoth...and Possible crash (#19891)
+
+* Update boss_illidan.cpp
+
+* Update boss_illidan.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7448f2</div>
+                                        <div class="message">fix(Scripts/Commands): .gps formatting transport offset (#19890)
+
+* Update cs_misc.cpp
+
+* Update PlayerUpdates.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd2167b</div>
+                                        <div class="message">fix(Core/AI): Creature SetInCombatState Leashing. (#19889)
+
+* Update Unit.cpp
+
+* Update pit_of_saron.cpp
+
+* Update Unit.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78d40e4</div>
+                                        <div class="message">fix(Scripts/BlackTemple): Remove Shear from Illidan following wrath p… (#19881)
+
+fix(Scripts/BlackTemple): Remove Shear from Illidan following wrath patch changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89b08dd</div>
+                                        <div class="message">fix(Scripts/Commands): .gps formatting transport offset (#19888)
+
+fix transport offset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#632d7f5</div>
+                                        <div class="message">fix(Core/Unit): Add leash extension with damage dealt. (#19880)
+
+Init.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e5cd04</div>
+                                        <div class="message">fix(docker): Modules SQL do not get updated or populated for docker set ups (#19870)
+
+* Added modules to dbimport so sql cab accessed by loader
+
+* updated dbimport tools config option to enable module sql to be updated and populated
+
+* Updated casting around GetOption and changed default to all</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9dae875</div>
+                                        <div class="message">fix(Core/Creature): Creature Scale. (#19722)
+
+Update Creature.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1f77ae</div>
+                                        <div class="message">chore(DB): import pending files
+
+Referenced commit(s): fa490c21e9262152c59c0ac81f9e8a500f047582</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa490c2</div>
+                                        <div class="message">fix(Scripts/BlackTemple): Rewrite Illidan Stormrage Fight (#19574)
+
+* Create rev_1722993051676997100.sql
+
+* akama done
+
+* Update boss_illidan.cpp
+
+* maiev
+
+* sssssssssllllll
+
+* blerg
+
+im sick irl
+
+* door handel
+
+* Update boss_illidan.cpp
+
+* minions
+
+* Update boss_illidan.cpp
+
+* unneeded
+
+* Update boss_illidan.cpp
+
+* Update boss_illidan.cpp
+
+* meow
+
+* Update boss_illidan.cpp
+
+* Update boss_illidan.cpp
+
+* Update boss_illidan.cpp
+
+* demon_phase
+
+missing:
+tear of azzinoth
+trap + frenzy
+flying phase wipe + animation
+
+* akama's ending not working still
+
+* Update boss_illidan.cpp
+
+* Update boss_illidan.cpp
+
+flying animation
+akama isn't returning to complete the ending
+
+* akama ending fixed
+
+* cleanup
+
+* Update boss_illidan.cpp
+
+* Update boss_illidan.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19264be</div>
+                                        <div class="message">Fix(Core/Misc): Acore::StringFormat to fmt format (#19867)
+
+Update MMapMgr.cpp</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 60 commits in
                                         <span class="repo">FallenDev/azerothcore-wotlk</span>
                                     </div>
@@ -1582,7 +1828,7 @@ Referenced commit(s): db79c33064caef36d911d5de04506497df65650f</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Sept 2024, 23:06:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2024, 00:06:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
