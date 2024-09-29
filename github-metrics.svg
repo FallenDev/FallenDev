@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1356" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1123" class="">
     <defs>
         <style/>
     </defs>
@@ -64,9 +64,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.1852916262732" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="456.1852916262732" y="0" width="3.1986930964714095" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="459.38398472274463" y="0" width="0.6160152772553605" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.1856656759238" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="456.1856656759238" y="0" width="3.1983794499438165" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="459.38404512586766" y="0" width="0.6159548741323262" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1136,6 +1136,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#bbfedce</div>
+                                        <div class="message">Bank Limitation - Separated out Stack items</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">FallenDev/Zolian</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#3d65b6c</div>
                                         <div class="message">Updates to Logging</div>
                                     </div>
@@ -1334,133 +1354,6 @@ Co-Authored-By: Anton Popovichenko &lt;walkline.ua@gmail.com&gt;
 ---------
 
 Co-authored-by: Anton Popovichenko &lt;walkline.ua@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 15 commits in
-                                        <span class="repo">FallenDev/azerothcore-wotlk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dbde182</div>
-                                        <div class="message">refactor(Deps/MySQL): Drop MariaDB and MySQL 5.7/8.1 and add MySQL 8.… (#19451)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5af3d2d</div>
-                                        <div class="message">fix(Scripts/BlackTemple): Flames of Azzinoth - Fix the charge logic (#19968)
-
-fix(Scripts/BlackTemple): fix the charge mechanic of Flames of Azzinoth
-
-* remove also a old duplicate check in a spell script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a35f0c4</div>
-                                        <div class="message">chore(DB): import pending files
-
-Referenced commit(s): 07c54fe8c7c0eb32ba51d52e3f6bbc34005239ab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07c54fe</div>
-                                        <div class="message">fix(DB/Command): Add help values for various commands. (#19984)
-
-Init.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bb5ec7</div>
-                                        <div class="message">fix(Core/Spells): Revert triggered spell logic change. (#19983)
-
-Revert "fix(Core/Spells): Resolve a case of triggered spells prolonging comba…"
-
-This reverts commit edd7e10dfc7651ed2657a09d5411771831c8ec1e.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64c9e4a</div>
-                                        <div class="message">chore(DB): import pending files
-
-Referenced commit(s): e2353a1c9f58a143581ed326e9b0600f90c24aeb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2353a1</div>
-                                        <div class="message">fix(Core/PlayerQuest): Introduce flag QUEST_SPECIAL_FLAGS_NO_LOREMAST… (#19962)
-
-* fix(Core/PlayerQuest): Introduce flag QUEST_SPECIAL_FLAGS_NO_LOREMASTER_COUNT
-
-- this allows flagging quests so that they will not count towards Loremaster achievement
-- update Corrupted Flower Quests in Felwood accordingly as a first use case
-
-* load Specialflags as uint32 from DB</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1df989f</div>
-                                        <div class="message">chore(Core/Achievement): cleanup offline achievement (#19976)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee6e74e</div>
-                                        <div class="message">fix(Scripts/Commands): Fix level up achievements not being granted (#19969)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04c8e85</div>
-                                        <div class="message">fix(Scripts/BT): correct illidari council enrage timer (#19975)
-
-* fix(Scripts/BT): correct illidari council enrage timer
-
-* wrong conversion from https://github.com/azerothcore/azerothcore-wotlk/commit/5ae1473e3064beb4adf666e33a38b6072639069a
-
-* redundant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d13b696</div>
-                                        <div class="message">chore(DB): import pending files
-
-Referenced commit(s): 8b16f7d243d54a19e6e7d5bf79bf44427fa84bfe</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b16f7d</div>
-                                        <div class="message">fix(Scripts/BlackTemple): Implement emotes when opening Najentus and … (#19946)
-
-* fix(Scripts/BlackTemple): Implement emotes when opening Najentus and Den of Mortal Delights
-
-* only check if state is done</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99b39e5</div>
-                                        <div class="message">fix(Scripts/BlackTemple): Parasitic Shadowfiends should not target pl… (#19944)
-
-* fix(Scripts/BlackTemple): Parasitic Shadowfiends should not target players affected with debuff
-
-* Update boss_illidan.cpp
-
-* Update src/server/scripts/Outland/BlackTemple/boss_illidan.cpp
-
-* make it simple</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fc60bb</div>
-                                        <div class="message">fix(Core/Spells): Shadow demon - Allow to move while casting Paralyze (#19948)
-
-* fix(Scripts/BlackTemple): fix stationary shadow demons
-
-* optimization: use else if to stop the execution when a condition is reach
-
-* revert last changes and fix the spell to allow move while casting
-
-* .</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd40fef</div>
-                                        <div class="message">fix(Scripts/BlackTemple): fix blaze and flame bast casting for Flame of Azzinoth (#19967)
-
-fix(Scripts/Core): fix blaze and flame bast casting for Flame of Azzinoth</div>
                                     </div>
                                 </div>
                             </section>
@@ -1686,7 +1579,7 @@ fix(Scripts/Core): fix blaze and flame bast casting for Flame of Azzinoth</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Sept 2024, 15:05:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2024, 16:06:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
