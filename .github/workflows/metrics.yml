@@ -53,7 +53,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 5
-          plugin_languages_threshold: 5%
+          plugin_languages_threshold: 1%
           plugin_languages_recent_categories: markup, programming, data
           plugin_languages_recent_days: 180
           plugin_languages_recent_load: 350
