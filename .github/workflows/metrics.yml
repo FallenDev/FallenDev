@@ -8,7 +8,6 @@ on:
   workflow_dispatch:
   push: 
     branches:
-      - main
       - master
 jobs:
   github-metrics:
@@ -17,7 +16,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: stalomeow/metrics@projects-v2 #lowlighter/metrics@latest - Temp Fix for broken achievements 
+      - uses: lowlighter/metrics@master #lowlighter/metrics@latest - Temp Fix for broken achievements 
         with:
           # Your GitHub token
           # The following scopes are required:
