@@ -17,7 +17,7 @@ jobs:
       contents: write
     steps:
       - name: FallenDev/metrics
-        uses: FallenDev/metrics@master
+        uses: FallenDev/metrics@main
         with:
           # Your GitHub token
           # The following scopes are required:
