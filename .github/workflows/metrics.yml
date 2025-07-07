@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: FallenDev/metrics
-        uses: FallenDev/metrics@main
+        uses: FallenDev/metrics@fix-ci-outdated-actions
         with:
           token: ${{ secrets.METRICS }}
 
