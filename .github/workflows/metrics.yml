@@ -28,7 +28,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS }}
-          filename: github-metrics-fallendev.svg
+          filename: github-metrics.svg
 
           # Options
           user: FallenDev
