@@ -12,18 +12,27 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: production
+    permissions:
+      contents: write
     steps:
-      - name: FallenDev/metrics
-        uses: FallenDev/metrics@fix-ci-outdated-actions
+      - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS }}
 
           # Options
           user: FallenDev
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_display: large
-          config_order: introduction, base.header, base.activity+community, base.repositories, base.metadata, notable, followup, reactions, people, languages, achievements, stackoverflow, activity
+          base: activity, metadata
+          base_indepth: yes
           config_timezone: America/New_York
           
           plugin_achievements: yes
@@ -59,5 +68,3 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_lines_delay: 30
-
-          repositories_affiliations: owner, collaborator, organization_member
