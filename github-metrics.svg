@@ -2095,17 +2095,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 4.10mb of code in 3145 edited files across 765 commits</small>
+                <small>estimation from 3.74mb of code in 2734 edited files across 676 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.70348856459304" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="272.70348856459304" y="0" width="149.57611311890875" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="422.27960168350177" y="0" width="31.82339943876967" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="454.1030011222714" y="0" width="3.6138591538281313" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="457.71686027609957" y="0" width="2.2831397239004088" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.35662612290326" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="265.35662612290326" y="0" width="157.1212603015608" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="422.4778864244641" y="0" width="31.36711317804807" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="453.8449996025122" y="0" width="3.796154967273498" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="457.64115456978567" y="0" width="2.3588454302143784" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2117,7 +2117,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>59.28%</div>
+                                <div>57.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2128,7 +2128,7 @@
                                 XML
                             </div>
                             <small>
-                                <div>6.92%</div>
+                                <div>6.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2136,10 +2136,10 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TSQL
+                                Microsoft Visual Studio Solution
                             </div>
                             <small>
-                                <div>0.5%</div>
+                                <div>0.51%</div>
                             </small>
                         </div>
                     </section>
@@ -2152,7 +2152,7 @@
                                 SVG
                             </div>
                             <small>
-                                <div>32.52%</div>
+                                <div>34.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2163,7 +2163,7 @@
                                 PLpgSQL
                             </div>
                             <small>
-                                <div>0.79%</div>
+                                <div>0.83%</div>
                             </small>
                         </div>
                     </section>
