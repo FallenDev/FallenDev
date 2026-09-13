@@ -25,7 +25,7 @@ I'm currently developing **Zolian - Age of Ruin**, a server-authoritative MMORPG
 
 ## Zolian - Age of Ruin
 
-**Zolian - Age of Ruin** is my current long-term engineering project: a modern MMORPG designed around a server-authoritative, data-oriented architecture.
+**Zolian - Age of Ruin** is my current long-term engineering (passion) project: a modern MMORPG designed around a server-authoritative, data-oriented architecture.
 
 The project is an ongoing exploration of the engineering problems that make persistent multiplayer worlds interesting to build:
 
@@ -43,8 +43,8 @@ The current game and infrastructure are being developed privately while the arch
 
 ## Background
 
-**M.S. Software Engineering**
-**B.S. Security Risk Analysis, Minor in Cybersecurity**
+* **M.S. Software Engineering** 
+* **B.S. Security Risk Analysis, Minor in Cybersecurity** 
 
 My background in software engineering and cybersecurity heavily influences how I approach backend architecture: clearly defined trust boundaries, server authority, defensive validation, deterministic behavior, and systems designed for failure rather than assuming it cannot happen.
 
