@@ -1,6 +1,4 @@
-# Paul / FallenDev
-
-### Software & Systems Engineer
+## Software & Systems Engineer
 
 I design and build high-performance software with a focus on **server-authoritative multiplayer systems, distributed architecture, concurrency, networking, and data-oriented simulation**.
 
