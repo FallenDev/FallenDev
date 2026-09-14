@@ -24,7 +24,7 @@ concurrency:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 45
 
     environment: production
 
@@ -45,10 +45,15 @@ jobs:
           filename: github-metrics.svg
           template: classic
 
+          # Repository Affiliation
+          repositories_affiliations: owner
+          repositories_forks: "no"
+          
           # Core account/activity information.
           base: header, activity
           base_indepth: yes
 
+          # Configuration
           config_timezone: America/New_York
           config_order: base.header, isocalendar, languages, base.activity
 
@@ -59,12 +64,12 @@ jobs:
           # Language statistics.
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_categories: markup, programming, data
+          plugin_languages_categories: programming, data
           plugin_languages_sections: most-used
           plugin_languages_limit: 5
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
 
           # Bounds for repository language analysis.
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 10
