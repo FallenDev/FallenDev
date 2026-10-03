@@ -1,6 +1,6 @@
 # GitHub profile metrics
 # Documentation:
-# https://github.com/lowlighter/metrics
+# https://github.com/FallenDev/metrics (fork of https://github.com/lowlighter/metrics)
 
 name: Metrics
 
@@ -24,7 +24,7 @@ concurrency:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
 
     environment: production
 
@@ -33,7 +33,9 @@ jobs:
 
     steps:
       - name: Generate GitHub metrics
-        uses: lowlighter/metrics@latest
+        # Forked action: there is no prebuilt image for forks, so the Docker
+        # image is built from FallenDev/metrics on each run (a few minutes).
+        uses: FallenDev/metrics@main
         with:
           # PAT used only for collecting GitHub metrics.
           token: ${{ secrets.METRICS }}
@@ -48,7 +50,7 @@ jobs:
           # Repository Affiliation
           repositories_affiliations: owner
           repositories_forks: "no"
-          
+
           # Core account/activity information.
           base: header, activity
           base_indepth: yes
